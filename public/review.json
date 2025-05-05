@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "a1f3b1d0-9c9f-4a1b-80a2-5e923b1aaef0",
+    "name": "Liam Thompson ",
+    "testimonial": "Bought a verified Binance account, and it was 100% legit. The process was smooth, and I got access in just a few hours. Highly recommend their service.",
+    "rating": 5,
+    "category": "Google"
+  },
+  {
+    "_id": "b2a1d8e4-77fa-4b1e-acc4-184fbc93f3b1",
+    "name": "Emily Clark ",
+    "testimonial": "I was a bit nervous at first, but I got my virtual bank account quickly and safely. Everything was verified and ready to use. Great service and communication.",
+    "rating": 4.5,
+    "category": "Google"
+  },
+  {
+    "_id": "c3f9d3a8-55b7-4689-ae57-e6f2f57c64cc",
+    "name": "James Miller ",
+    "testimonial": "Had a few questions before buying. The support was kind and patient. Helped me pick the right account for my needs. 5 stars for service.",
+    "rating": 5,
+    "category": "LinkedIn"
+  },
+  {
+    "_id": "d4c6b2e2-4e5e-40e7-b2e4-15d20581c271",
+    "name": "Olivia Davis ",
+    "testimonial": "Explore a wide range of products with easy browsing, secure payments, and fast delivery. Shop now for a seamless experience that won’t disappoint!",
+    "rating": 4.5,
+    "category": "Google"
+  },
+  {
+    "_id": "e5f8a9c1-f062-4781-8614-cbe7b57bc0f1",
+    "name": "Benjamin Wilson ",
+    "testimonial": "The shopping experience was seamless from start to finish. The website is easy to navigate, the products match the descriptions, and the checkout process is smooth. It’s a platform I trust.",
+    "rating": 5,
+    "category": "Facebook"
+  },
+  {
+    "_id": "f6d0a10b-4d34-4982-9c1e-d0eb833a5dbf",
+    "name": "Sophie Brown ",
+    "testimonial": "From browsing to receiving my order, everything was handled with care. The site is easy to use, the delivery was quick, and the products exceeded my expectations.",
+    "rating": 4.5,
+    "category": "LinkedIn"
+  },
+  {
+    "_id": "g7b5d2e7-9f19-4430-81b1-dfb3f17029b7",
+    "name": "Jack Anderson ",
+    "testimonial": "Fast delivery and great customer service. I’ll definitely shop here again. The whole experience was stress-free.",
+    "rating": 5,
+    "category": "Google"
+  },
+  {
+    "_id": "h8c7e8f4-d890-41f3-9cd4-8c1167cc4e34",
+    "name": "Charlotte Martin ",
+    "testimonial": "Easy to order, great value for money. The product quality is excellent, and the communication was on point.",
+    "rating": 4.5,
+    "category": "Facebook"
+  },
+  {
+    "_id": "i9f6c1b3-faf0-45c9-b18e-786ef0c91a0f",
+    "name": "Ethan Walker ",
+    "testimonial": "I was impressed by how quickly my order was processed. Everything arrived as described. Highly recommended!",
+    "rating": 5,
+    "category": "LinkedIn"
+  }
+]

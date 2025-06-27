@@ -27,7 +27,7 @@ const FloatingContactButton = () => {
       icon: <Send className="w-5 h-5" />,
       label: 'Telegram',
       value: '+16396667833',
-      href: 'https://t.me/+16396667833',
+      href: 'https://t.me/+16722746630',
       bgColor: 'bg-blue-500 hover:bg-blue-600'
     }
   ];

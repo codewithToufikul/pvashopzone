@@ -1,7 +1,7 @@
-import airbnb from './images/airbnb.png';
-import microsoft from './images/microsoft.png';
-import amazon from './images/amazon3.png';
-import fedex from './images/fedex2.png';
+import airbnb from './images/airbnb.webp';
+import microsoft from './images/microsoft.webp';
+import amazon from './images/amazon.webp';
+import fedex from './images/fedex.webp';
 import ama from './images/ama.svg';
 
 export const Trusted = () => {
